@@ -1,28 +1,38 @@
-name: VER Production Services
 favicon: null
-layout_spectrum: 0.29604592686519027
-typography_spectrum: 0.5163685977458954
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: VER Production Services
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4817089829593897
-  lightness: 0.33417211030609906
-  saturation: 0.37668349617160857
-  rhythmicContrast: 0.13879916677251458
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7706093
+  brandStrength: 0.9426523
+  lightness: 0.04480287
+  brandColors:
+    - '#000000'
+    - '#50376C'
+    - '#331D3A'
+  rhythmicContrast: 0.6935484
+typography_spectrum: 0.4193548
+layout_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
