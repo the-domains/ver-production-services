@@ -1,9 +1,7 @@
-favicon: null
 name: VER Production Services
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.4193548
 collections:
   - index:
       path: /
@@ -16,23 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: PS Showcase
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7706093
-  brandStrength: 0.9426523
-  lightness: 0.04480287
   brandColors:
     - '#000000'
     - '#50376C'
     - '#331D3A'
+  brandStrength: 0.9426523
+  lightness: 0.04480287
+  saturation: 0.7706093
   rhythmicContrast: 0.6935484
-typography_spectrum: 0.4193548
-layout_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
