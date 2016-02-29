@@ -1,0 +1,28 @@
+name: VER Production Services
+favicon: null
+layout_spectrum: 0.29604592686519027
+typography_spectrum: 0.5163685977458954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4817089829593897
+  lightness: 0.33417211030609906
+  saturation: 0.37668349617160857
+  rhythmicContrast: 0.13879916677251458
+purpose: []
